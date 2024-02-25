@@ -16,7 +16,10 @@ const App = () => {
         <Hero />
       </section>
       
+    
       <Portfolio/>
+     
+      
    
       <section id="Contact">
         <Contact />
