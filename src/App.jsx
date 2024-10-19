@@ -15,9 +15,9 @@ const App = () => {
         <Navbar />
         <Hero />
       </section>
-      
-    
-      <Portfolio/>
+     
+{/*    
+      <Portfolio/> */}
      
       
    

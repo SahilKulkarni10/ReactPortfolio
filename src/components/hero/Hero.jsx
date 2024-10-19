@@ -1,6 +1,8 @@
 import "./hero.scss";
 import { motion } from "framer-motion";
 
+
+
 const textVariants = {
   initial: {
     x: -500,
@@ -49,7 +51,7 @@ const Hero = () => {
         >
           <motion.h2 variants={textVariants}>Hello!, I am Sahil kulkarni</motion.h2>
           <motion.h1 variants={textVariants}>
-            A Web developer and Software Engineer
+           A Full Stack Developer and ML Enthusiast
           </motion.h1>
           <motion.div variants={textVariants} className="buttons">
             <motion.button variants={textVariants}>
