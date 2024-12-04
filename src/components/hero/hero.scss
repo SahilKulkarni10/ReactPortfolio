@@ -52,8 +52,13 @@
           margin-right: 20px;
           cursor: pointer;
           font-weight: 300;
+      
+          &:hover {
+            background-color: #ffffff20;
+          }
         }
       }
+      
 
       img {
         width: 50px;
